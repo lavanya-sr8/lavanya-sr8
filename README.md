@@ -1,8 +1,6 @@
 <h1 align="center">Hello! 👋, I'm Lavanya</h1>
 <h3 align="center">A CS student interested in web development and machine learning!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lavanya-sr8" alt="lavanya-sr8" /></a> </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
